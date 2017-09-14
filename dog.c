@@ -2,4 +2,7 @@ puppy
 canine
 wolf
 bark
-bow wow
+bow wo
+dogs
+cats
+dobermanw
